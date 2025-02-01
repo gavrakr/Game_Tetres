@@ -1,5 +1,5 @@
-Make to game "Tetris"
-Day : 2025. 01. 27.s
+# Make to game "Tetris"
+- Day : 2025. 01. 27.s
 
 # 참고영상
 
